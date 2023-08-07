@@ -2,9 +2,8 @@
 
 Test framework based on code in PCL
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/gigamonkey/monkeylib-test-framework.git   |
-| commit  | 4104dd7  |
-| systems | monkeylib-test-framework |
-|---------+-------------------------------------------|
-
+|---------+----------------------------------------------------------------|
+| source  | git:https://github.com/gigamonkey/monkeylib-test-framework.git |
+| commit  | 4104dd7                                                        |
+| systems | com.gigamonkeys.test-framework                                 |
+|---------+----------------------------------------------------------------|
